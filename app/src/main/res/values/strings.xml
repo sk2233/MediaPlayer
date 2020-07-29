@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">媒体播放器</string>
     <string name="loading">少女祈祷中...</string>
+    <string name="video">本地视频</string>
+    <string name="audio">本地音频</string>
+    <string name="net_video">网络视频</string>
+    <string name="net_audio">网络音频</string>
 </resources>
