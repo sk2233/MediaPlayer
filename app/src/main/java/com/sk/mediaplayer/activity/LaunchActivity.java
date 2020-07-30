@@ -1,4 +1,4 @@
-package com.sk.mediaplayer;
+package com.sk.mediaplayer.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.MotionEvent;
+
+import com.sk.mediaplayer.R;
 
 public class LaunchActivity extends AppCompatActivity {
 

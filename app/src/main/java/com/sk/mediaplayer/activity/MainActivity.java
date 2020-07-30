@@ -1,9 +1,11 @@
-package com.sk.mediaplayer;
+package com.sk.mediaplayer.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.RadioGroup;
+
+import com.sk.mediaplayer.R;
 
 public class MainActivity extends AppCompatActivity {
 
